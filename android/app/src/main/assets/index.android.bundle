@@ -1,0 +1,1 @@
+{"message":"Unable to resolve module ./reducers from /home/bolt/Documents/projects/custom/TODO/src/store/index.js: Directory /home/bolt/Documents/projects/custom/TODO/src/store/reducers doesn't exist","name":"UnableToResolveError","type":"UnableToResolveError","errors":[{}]}
